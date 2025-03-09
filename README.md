@@ -6,4 +6,7 @@ The repository is organized by the binding species:
 - HBAa
 - HBAc 
 - HBD
-- HBAa (w/ ligand functionalization)
+- HBAa_Pyr
+- HBAa_Im
+
+The frequency calculation log files and the converged xyz coordinates are provided. 
